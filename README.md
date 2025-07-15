@@ -21,7 +21,7 @@ I'm a passionate developer currently working on building powerful web applicatio
 - **E-Waste Management System** – Buy/sell e-waste products like phones, fridges; track and manage listings.
 
 
-> Check out more projects in my [repositories]((https://github.com/aadipandhare))
+> Check out more projects in my [repositories](https://github.com/aadipandhare)
 
 ---
 
