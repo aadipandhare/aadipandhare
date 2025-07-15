@@ -21,7 +21,7 @@ I'm a passionate developer currently working on building powerful web applicatio
 - **E-Waste Management System** – Buy/sell e-waste products like phones, fridges; track and manage listings.
 
 
-> Check out more projects in my [repositories](https://github.com/your-username?tab=repositories)
+> Check out more projects in my [repositories]((https://github.com/aadipandhare))
 
 ---
 
@@ -43,5 +43,5 @@ I'm a passionate developer currently working on building powerful web applicatio
 ### 🔥 Fun Fact
 
 I love sketching and post my art on Instagram 🎨  
-[📷 Follow my art journey]((https://www.instagram.com/artist_panda0?igsh=anFuejNjN2tsZzlh))
+[📷 Follow my art journey](https://www.instagram.com/artist_panda0?igsh=anFuejNjN2tsZzlh)
 
