@@ -35,7 +35,7 @@ I'm a passionate developer currently working on building powerful web applicatio
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/aditya-pandhare](www.linkedin.com/in/aditya-pandhare-374137258)
+- LinkedIn: [linkedin.com/in/aditya-pandhare](https://www.linkedin.com/in/aditya-pandhare-374137258/)
 - Email: adityapandhare1@gmail.com
 
 ---
