@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Pandhare
 
-<!--
-**aadipandhare/aadipandhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | Node.js | React | JavaScript
 
-Here are some ideas to get you started:
+I'm a passionate developer currently working on building powerful web applications. I love learning new technologies and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+
+- 💻 Languages: JavaScript, Java, HTML, CSS
+- ⚙️ Frameworks: React.js, Node.js,Express.js
+- 🛠️ Tools: Git, GitHub, VS Code 
+- 🗄️ Databases: MongoDB
+
+---
+
+### 📌 Projects
+
+- **Event Management Platform** – Let users create, join, and manage events, including birthday parties, art exhibitions, etc.
+- **E-Waste Management System** – Buy/sell e-waste products like phones, fridges; track and manage listings.
+
+
+> Check out more projects in my [repositories](https://github.com/your-username?tab=repositories)
+
+---
+
+### 🧠 Currently Learning
+
+- Advanced Next.js
+- Microservices with Node.js
+- Performance optimization in React
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: www.linkedin.com/in/aditya-pandhare-374137258
+- Email: adityapandhare1@gmail.com
+
+---
+
+### 🔥 Fun Fact
+
+I love sketching and post my art on Instagram 🎨  
+[📷 Follow my art journey]((https://www.instagram.com/artist_panda0?igsh=anFuejNjN2tsZzlh))
+
