@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandhare</h1>
-<h3 align="center">🚀 Full Stack Developer | Building Scalable Web Applications</h3>
+<h3 align="center">🌐 Full Stack MERN Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -9,22 +9,19 @@
 
 ## 🧑‍💻 About Me
 
-🚀 Full Stack Developer passionate about building scalable and efficient web applications.  
-💡 I enjoy solving real-world problems using modern technologies.  
-📈 Constantly learning and improving my architecture & system design skills.  
-🎯 Focused on writing clean, maintainable, and performance-optimized code.
+- 🚀 Full Stack Developer specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- 💡 Passionate about building **scalable, maintainable, and performant web applications**  
+- 🌱 Continuously learning **advanced backend architectures, microservices, and frontend optimization**  
+- 🎨 Sketch artist in free time – love sharing creativity online  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java)
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
-
----
 
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
@@ -32,38 +29,28 @@
 ![Express.js](https://img.shields.io/badge/Express.js-API-lightgrey?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb)
 
----
-
-### 🧰 Tools & Platforms
+### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📊 GitHub Stats & Charts
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏗️ Full Stack Architecture Diagram
+## 🏗️ MERN Stack Architecture Diagram
 
 ```mermaid
 flowchart LR
-    Client -->|HTTP Requests| Frontend(React App)
-    Frontend -->|API Calls| Backend(Node + Express)
+    Client -->|HTTP Requests| Frontend(React.js)
+    Frontend -->|API Calls| Backend(Node.js + Express)
     Backend -->|CRUD Operations| Database(MongoDB)
     Database --> Backend
     Backend --> Frontend
