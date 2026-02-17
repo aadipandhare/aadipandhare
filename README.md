@@ -1,25 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=120"/>
-</p>
-
-<h1 align="center">Hi, I'm Aditya Pandhare 👋</h1>
-<h3 align="center">🌐 Full Stack MERN Developer | Building Scalable Web Applications</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pandhare-374137258/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-  </a>
-  <a href="mailto:adityapandhare1@gmail.com">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
-  </a>
-  <a href="https://www.instagram.com/artist_panda0?igsh=anFuejNjN2tsZzlh">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
-  </a>
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Aditya Pandhare</h1>
 <h3 align="center">🌐 Full Stack MERN Developer | Building Scalable Web Applications</h3>
 
@@ -76,15 +54,3 @@ flowchart LR
     Backend -->|CRUD Operations| Database(MongoDB)
     Database --> Backend
     Backend --> Frontend
-adical" height="165"/> </p>
-
-<p align="center"> <img src="https://github.com/AdityaPandhare/AdityaPandhare/blob/output/github-contribution-grid-snake.svg"/> </p>
-
-```yaml
-flowchart LR
-    Client -->|HTTP Requests| Frontend(React.js)
-    Frontend -->|API Calls| Backend(Node.js + Express)
-    Backend -->|CRUD Operations| Database(MongoDB)
-    Database --> Backend
-    Backend --> Frontend
-
