@@ -21,8 +21,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```yaml
 name: Aditya Pandhare
 role: Full Stack MERN Developer
 stack: MongoDB, Express.js, React.js, Node.js
