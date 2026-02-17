@@ -1,47 +1,64 @@
-# 👋 Hi, I'm Aditya Pandhare
+<h1 align="center">Hi 👋, I'm Aditya Pandhare</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver</h3>
 
-## 💻 Full Stack Developer | Node.js | React | JavaScript
-
-I'm a passionate developer currently working on building powerful web applications. I love learning new technologies and solving real-world problems through code.
-
----
-
-### 🔧 Technologies & Tools
-
-- 💻 Languages: JavaScript, Java, HTML, CSS
-- ⚙️ Frameworks: React.js, Node.js,Express.js
-- 🛠️ Tools: Git, GitHub, VS Code 
-- 🗄️ Databases: MongoDB
+<p align="center">
+  <a href="https://github.com/aadipandhare">
+    <img src="https://komarev.com/ghpvc/?username=aadipandhare&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-### 📌 Projects
+## 💫 About Me
 
-- **Event Management Platform** – Let users create, join, and manage events, including birthday parties, art exhibitions, etc.
-- **E-Waste Management System** – Buy/sell e-waste products like phones, fridges; track and manage listings.
-
-
-> Check out more projects in my [repositories](https://github.com/aadipandhare)
-
----
-
-### 🧠 Currently Learning
-
-- Advanced Next.js
-- Microservices with Node.js
-- Performance optimization in React
+- 🔭 Currently building scalable MERN applications  
+- 🌱 Learning **Advanced Next.js & Microservices Architecture**  
+- 💡 Passionate about solving real-world problems with code  
+- 🎨 Sketch artist in free time  
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-- LinkedIn: [linkedin.com/in/aditya-pandhare](https://www.linkedin.com/in/aditya-pandhare-374137258/)
-- Email: adityapandhare1@gmail.com
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java)
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-API-lightgrey?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-### 🔥 Fun Fact
+## 📊 GitHub Analytics
 
-I love sketching and post my art on Instagram 🎨  
-[📷 Follow my art journey](https://www.instagram.com/artist_panda0?igsh=anFuejNjN2tsZzlh)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadipandhare&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadipandhare&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadipandhare&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏗️ Project Architecture (MERN Stack)
+
+```mermaid
+flowchart LR
+    User --> ReactFrontend
+    ReactFrontend --> NodeAPI
+    NodeAPI --> ExpressServer
+    ExpressServer --> MongoDB
 
