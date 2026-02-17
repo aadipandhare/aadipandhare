@@ -30,3 +30,16 @@ passion: Coding, Problem Solving, Sketching
 fun_fact: Loves posting art on Instagram 🎨
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdityaPandhare&show_icons=true&theme=radical" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPandhare&layout=compact&theme=radical" height="165"/> </p>
+
+<p align="center"> <img src="https://github.com/AdityaPandhare/AdityaPandhare/blob/output/github-contribution-grid-snake.svg"/> </p>
+
+```yaml
+flowchart LR
+    Client -->|HTTP Requests| Frontend(React.js)
+    Frontend -->|API Calls| Backend(Node.js + Express)
+    Backend -->|CRUD Operations| Database(MongoDB)
+    Database --> Backend
+    Backend --> Frontend
+
