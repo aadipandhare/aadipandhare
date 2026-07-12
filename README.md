@@ -67,9 +67,9 @@ const aditya: Developer = {
 
 | 🔗 Project | 📝 Description | 🛠️ Stack |
 |------------|----------------|----------|
-| [Project Alpha](#) | A full-stack e-commerce platform with JWT auth, cart, and payment integration | React, Node, MongoDB, Tailwind |
+| [Project Alpha](https://github.com/aadipandhare/E-Commerce-) | A full-stack e-commerce platform with JWT auth, cart, and payment integration | React, Node, MongoDB, Tailwind |
 | [Project Beta](#) | RESTful API service with rate limiting, caching, and Docker deployment | Express, TypeScript, Docker |
-| [Project Gamma](#) | Real-time chat application using WebSockets and MongoDB Atlas | MERN, Socket.io |
+| [Project Gamma](https://github.com/aadipandhare/Google-Gemini-Clone) | Real-time chat application using WebSockets and MongoDB Atlas | MERN, Socket.io |
 
 ---
 
@@ -126,9 +126,9 @@ const aditya: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityapandhare1/)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapandhare1@gmail.com)
+//[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-6366F1?style=for-the-badge&logo=firefox&logoColor=white)]()
 
 </div>
 
